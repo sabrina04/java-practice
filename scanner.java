@@ -6,7 +6,7 @@
         // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
         j = scan.nextInt();
         e = scan.nextDouble();
-        str = scan.nextLine(); // read rest of the thing linke new line after double 
+        str = scan.nextLine(); // read rest of the thing like new line after double 
         str = scan.nextLine(); // read string
    /*     String temp="";
         while(!temp.equals("\n")){
